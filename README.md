@@ -1,5 +1,5 @@
-**Project Name:**
-Rhino Tracker
+**Rhino Tracker:**
+
 
 **Summary:** 
 Rhino Tracker is a system designed to help locate the critically endangered One-horned Rhinoceros within Chitwan National Park, Nepal. By utilizing various data sources and employing effective tracking methods, Rhino Tracker provides real-time information on the whereabouts of these rhinos, aiding in conservation efforts.
